@@ -1,0 +1,24 @@
+{
+  "name": "website-accessibility-tester",
+  "version": "1.0.0",
+  "description": "Website Accessibility Tester with pa11y",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaNiels89/website-accessibility-tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaNiels89/website-accessibility-tester/issues"
+  },
+  "homepage": "https://github.com/DaNiels89/website-accessibility-tester#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pa11y": "^6.1.0"
+  }
+}
